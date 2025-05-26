@@ -1,2 +1,2 @@
-{{Your Full Name}} [Github](https://github.com/kaurjasleen240305)
+Stuti Jain [Github] https://github.com/stutijain2006
 
