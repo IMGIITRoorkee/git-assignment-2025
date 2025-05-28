@@ -6,3 +6,4 @@
 - Mudassir Ansari [Github] https://github.com/anonymous-56/git-assignment-2025
 - Anuprash Pattnaik [Github] https://github.com/emulator05
 - Ameya Gupta [Github]  https://github.com/lookslikeameya
+- Darshan Thakare [Github] https://github.com/DarshanCode2005
