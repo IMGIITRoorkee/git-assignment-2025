@@ -8,3 +8,4 @@
 - Anuprash Pattnaik [Github] https://github.com/emulator05
 - Ameya Gupta [Github]  https://github.com/lookslikeameya
 - Darshan Thakare [Github] https://github.com/DarshanCode2005
+- Shradha Thakur [Github] https://github.com/setusher
