@@ -1,4 +1,5 @@
 - {{Your Full Name}} [Github](https://github.com/kaurjasleen240305)
+- Satyajit Biswal [Github] (https://github.com/K1NGK4NH4)
 - Akshat Yadav [Github](https://github.com/Akshat1276)
 - Anjan Singla [Github](https://github.com/AnjanSingla)
 - Stuti Jain [Github] https://github.com/stutijain2006
@@ -9,3 +10,10 @@
 - Ameya Gupta [Github]  https://github.com/lookslikeameya
 - Darshan Thakare [Github] https://github.com/DarshanCode2005
 - Rudra Pratap Singh [Github](https://github.com/RudraPratapSingh04)
+- Kabeer Khosla [Github](https://github.com/APT-KK) 
+- Atharv Grag [Github] https://github.com/mann2096
+- Saksham Kumar Shokeen [Github](https://github.com/sakshamshokeen7)
+- Divyansh Bansal [Github] https://github.com/DivuThisSide
+- Somye Mahajan [Github](https://github.com/sommye-ctr)
+- Shradha Thakur [Github] https://github.com/setusher
+- Swastik Pant [Github] https://github.com/SwastikPant
