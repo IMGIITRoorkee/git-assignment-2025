@@ -9,6 +9,7 @@
 - Anuprash Pattnaik [Github] https://github.com/emulator05
 - Ameya Gupta [Github]  https://github.com/lookslikeameya
 - Darshan Thakare [Github] https://github.com/DarshanCode2005
+- Rudra Pratap Singh [Github](https://github.com/RudraPratapSingh04)
 - Kabeer Khosla [Github](https://github.com/APT-KK) 
 - Atharv Grag [Github] https://github.com/mann2096
 - Saksham Kumar Shokeen [Github](https://github.com/sakshamshokeen7)
