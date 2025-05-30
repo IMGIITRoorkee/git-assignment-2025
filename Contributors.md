@@ -1,4 +1,5 @@
 - {{Your Full Name}} [Github](https://github.com/kaurjasleen240305)
+- Satyajit Biswal [Github] (https://github.com/K1NGK4NH4)
 - Akshat Yadav [Github](https://github.com/Akshat1276)
 - Anjan Singla [Github](https://github.com/AnjanSingla)
 - Stuti Jain [Github] https://github.com/stutijain2006
