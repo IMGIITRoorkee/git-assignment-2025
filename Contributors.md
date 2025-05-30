@@ -9,3 +9,5 @@
 - Ameya Gupta [Github]  https://github.com/lookslikeameya
 - Darshan Thakare [Github] https://github.com/DarshanCode2005
 - Somye Mahajan [Github](https://github.com/sommye-ctr)
+- Shradha Thakur [Github] https://github.com/setusher
+- Swastik Pant [Github] https://github.com/SwastikPant
