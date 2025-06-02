@@ -19,3 +19,4 @@
 - Shradha Thakur [Github] https://github.com/setusher
 - Swastik Pant [Github] https://github.com/SwastikPant
 - Khushi Goyal [Github] https://github.com/khushiigoyall
+- Tanish Agarwal [Github](https://github.com/TanishAgarwal2006)
